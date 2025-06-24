@@ -1,3 +1,9 @@
+direwolf (1.7+dfsg-2+rb1) unstable; urgency=medium
+
+  * Strip t64
+
+ -- Cryolitia <cryolitia@deepin.org>  Tue, 18 Feb 2025 16:06:08 +0100
+
 direwolf (1.7+dfsg-2) unstable; urgency=medium
 
   * Move 99-direwolf-cmedia.rules to /usr/lib/udev/rules.d/.
